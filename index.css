@@ -23,6 +23,8 @@ body {
     font-size: 24px; /* Adjust the font size as needed */
     margin: 6px 9px;
     font-weight: bold;
+      padding-top: 5px;
+    padding-bottom: 5px;
 }
 .college-name h3 {
     font-size: 16px; /* Adjust the font size as needed */
