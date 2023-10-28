@@ -21,14 +21,13 @@ body {
 
 .college-name h1 {
     font-size: 24px; /* Adjust the font size as needed */
-    margin: 6px 9px;
+    margin: 9px 9px;
     font-weight: bold;
-      padding-top: 5px;
-    padding-bottom: 5px;
+    
 }
 .college-name h3 {
     font-size: 16px; /* Adjust the font size as needed */
-    margin: 0 9px;
+    margin: 9px 9px;
 
 }
 
@@ -102,12 +101,12 @@ h3{
     .college-name h1 {
         font-size: 20px; /* Adjust the font size for smaller screens */
         font-weight: bold;
-        margin: 0 5px;
+        margin: 9px 5px;
 
     }
     .college-name h3 {
         font-size: 14px; /* Adjust the font size for smaller screens */
-        margin: 0 5px;
+        margin: 9px 5px;
 
     }
 
