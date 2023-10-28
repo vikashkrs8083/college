@@ -93,7 +93,7 @@ h3{
 
 }
 /* Responsive styles */
-@media (max-width: 600px) {
+@media (max-width: 768px) {
     .logo img {
         width: 80px; /* Adjust the width for smaller screens */
         margin-left: 10px;
