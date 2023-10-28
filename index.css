@@ -21,13 +21,14 @@ body {
 
 .college-name h1 {
     font-size: 24px; /* Adjust the font size as needed */
-    margin: 9px 9px;
-    font-weight: bold;
-    
+    margin-top: 10px;
+    margin-left: 9px;
+       font-weight: bold;
 }
 .college-name h3 {
     font-size: 16px; /* Adjust the font size as needed */
-    margin: 9px 9px;
+    margin-bottom: 10px;
+    margin-left: 9px;
 
 }
 
@@ -92,7 +93,7 @@ h3{
 
 }
 /* Responsive styles */
-@media (max-width: 768px) {
+@media (max-width: 600px) {
     .logo img {
         width: 80px; /* Adjust the width for smaller screens */
         margin-left: 10px;
@@ -101,14 +102,16 @@ h3{
     .college-name h1 {
         font-size: 20px; /* Adjust the font size for smaller screens */
         font-weight: bold;
-        margin: 9px 5px;
-
+        margin-top: 10px;
+        margin-left: 5px;
     }
     .college-name h3 {
         font-size: 14px; /* Adjust the font size for smaller screens */
-        margin: 9px 5px;
+        margin-left: 5px;
+        margin-bottom:  10px;
 
     }
+
 
     .codes{
       width: 90px;
