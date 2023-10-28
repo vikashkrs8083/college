@@ -12,7 +12,7 @@ body {
     justify-content: center;
     align-items: center;
     padding: 20px 0;
-    height: 100px; /* Adjust the header height as needed */
+    height: 120px; /* Adjust the header height as needed */
 }
 .logo img {
     width: 90px; /* Adjust the width as needed */
