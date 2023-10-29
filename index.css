@@ -6,13 +6,13 @@ body {
 
 .header {
     background-color: #fff; /* Choose your background color */
-    color: #1a6985; /* Choose your text color */
+    color: #560804; /* Choose your text color */
 
  display: flex;
     justify-content: center;
     align-items: center;
-    padding: 20px 0;
-    height: 150px; /* Adjust the header height as needed */
+    padding: 15px 0px 0px 0px;
+    height: 140px; /* Adjust the header height as needed */
 }
 .logo img {
     width: 90px; /* Adjust the width as needed */
@@ -27,7 +27,7 @@ body {
 }
 .college-name h3 {
     font-size: 16px; /* Adjust the font size as needed */
-    padding-bottom: 10px;
+    padding-bottom: 6px;
     padding-left: 9px;
 
 }
@@ -123,7 +123,7 @@ h3{
     .college-name h3 {
         font-size: 14px; /* Adjust the font size for smaller screens */
         padding-left: 5px;
-        padding-bottom:  10px;
+        padding-bottom:  7px;
 
     }
 
